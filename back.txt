@@ -1,0 +1,3 @@
+if TEXT in  <a class="back_to_nav" href="TEXT" 
+ not == javascript:history.back();
+ then change TEXT = to javascript:history.back();
